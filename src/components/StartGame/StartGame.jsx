@@ -69,29 +69,6 @@ const Container = styled.div`
     }
   }
 }
-@media (max-width: 1222px){
-  display:flex;
-  justify-content:center;
-  align-items: center;
-  width: 100%;
-  
-  .main_img{
-    width:502px;
-  }
-  .content{
-    margin-top:3%;
-    display:flex;
-    align-items:center;
-    flex-direction:column;
-    max-width:90%;
-    gap:20px;
-    h1{
-      font-size: 56px;
-    white-space: nowrap;
-
-    }
-  }
-}
 max-width: 1180px;
 height: 100vh;
 display:flex;
