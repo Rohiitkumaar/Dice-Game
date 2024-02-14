@@ -21,6 +21,7 @@ const Container = styled.div`
   align-items: center;
   width: 100%;
   flex-direction: column;
+  height: 100vh;
   
   .main_img{
     width:402px;
